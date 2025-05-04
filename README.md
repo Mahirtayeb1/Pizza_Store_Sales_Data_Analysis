@@ -65,8 +65,9 @@ The dashboard includes the following visuals:
 - 🔻 Declining Trends: Month-end drop & unpopular pizzas
 
 - 🎯 Built using Power BI Desktop with custom DAX measures, filters, and slicers for interactivity.
+  
 
-##🌟 Key Insights
+## 🌟 Key Insights
 |       Insight    |         Detail                        |
 |------------------|---------------------------------------|
 | 🍕 Top Pizza | Thai Chicken Pizza (6% of total revenue) |
@@ -76,7 +77,8 @@ The dashboard includes the following visuals:
 | 📉 Drop Period | Last 4 months showed declining revenue |
 | ⚖️ Size Preference | Large pizzas = 45% of total sales |
 
-##💡 Business Recommendations
+
+## 💡 Business Recommendations
 - 📌 Targeted Promotions: Run afternoon-time discounts to boost orders
 
 - 📌 Inventory Focus: Stock up on top-selling pizzas & large sizes
