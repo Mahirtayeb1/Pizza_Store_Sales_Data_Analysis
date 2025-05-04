@@ -39,4 +39,29 @@ Order_day_phase =
 IF(HOUR('pizza_sales'[order_time]) >= 5 && HOUR('pizza_sales'[order_time]) < 12, "Morning",
 IF(HOUR('pizza_sales'[order_time]) >= 12 && HOUR('pizza_sales'[order_time]) < 17, "Afternoon",
 IF(HOUR('pizza_sales'[order_time]) >= 17 && HOUR('pizza_sales'[order_time]) < 21, "Evening", "Night")))
+```
 
+### 3. 💵 Total Revenue Calculation
+- **Problem:** Dataset lacked a column for total revenue.
+
+- **Solution:** Created new DAX column and measure:
+
+```DAX
+Total_sales = 'Table'[Unit_Price] * 'Table'[Quantity]
+Total_Sales_Measure = SUM('Table'[Total_sales])
+```
+
+## 📊 Dashboard Overview
+The dashboard includes the following visuals:
+
+- 📈 Sales Summary: Total revenue & pizza-wise performance
+
+- 🕒 Sales by Time of Day: Morning, Afternoon, Evening, Night breakdown
+
+- 🍕 Top-Selling Pizzas & Sizes: Pizza type + size preference
+
+- 📅 Monthly Sales Trends: Revenue by month
+
+- 🔻 Declining Trends: Month-end drop & unpopular pizzas
+
+- 🎯 Built using Power BI Desktop with custom DAX measures, filters, and slicers for interactivity.
