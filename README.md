@@ -93,9 +93,9 @@ The dashboard includes the following visuals:
 ## 🔗 Demo & Files
 - <a href="https://github.com/Mahirtayeb1/Pizza_Store_Sales_Data_Analysis/tree/main/Screenshoots"> [📊 Power BI Dashboard Screenshot]</a>
 
-- 📁 Dataset Source: Kaggle
+- <a href= "https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset"> [📁 Dataset Source: Kaggle]
 
-- 📄 Project Report (Optional PDF or Notion write-up)
+- <a href= "https://medium.com/@mahirrfaisal07/pizza-sales-analysis-using-power-bi-6bb893920da4"> [📄 Project Report/ Medium Article]</a>
 
 
 ## 🧠 What I Learned
