@@ -108,4 +108,4 @@ The dashboard includes the following visuals:
 - Communicating data findings with clarity
 
 
-💼 This project is part of my effort to break into the data analytics industry. Feedback and collaboration opportunities are welcome!
+## 💼 This project is part of my effort to break into the data analytics industry. Feedback and collaboration opportunities are welcome!
