@@ -89,3 +89,20 @@ The dashboard includes the following visuals:
 
 - 📌 Expansion Strategy: Consider new branches in high-sales regions
 
+
+## 🔗 Demo & Files
+- <a href="https://github.com/Mahirtayeb1/Pizza_Store_Sales_Data_Analysis/tree/main/Screenshoots"> [📊 Power BI Dashboard Screenshot]</a>
+
+- 📁 Dataset Source: Kaggle
+
+- 📄 Project Report (Optional PDF or Notion write-up)
+
+
+## 🧠 What I Learned
+- Cleaning and transforming real-world messy datasets
+
+- Writing DAX expressions and using calculated columns
+
+- Designing interactive and insightful dashboards
+
+- Communicating data findings with clarity
