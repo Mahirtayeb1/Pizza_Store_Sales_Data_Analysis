@@ -75,3 +75,15 @@ The dashboard includes the following visuals:
 | 💰 Best Month | July (10% of total sales) |
 | 📉 Drop Period | Last 4 months showed declining revenue |
 | ⚖️ Size Preference | Large pizzas = 45% of total sales |
+
+##💡 Business Recommendations
+- 📌 Targeted Promotions: Run afternoon-time discounts to boost orders
+
+- 📌 Inventory Focus: Stock up on top-selling pizzas & large sizes
+
+- 📌 Discount Campaigns: Promote low-performing pizzas to clear inventory
+
+- 📌 Bundle Offers: Introduce combo deals with large pizzas
+
+- 📌 Expansion Strategy: Consider new branches in high-sales regions
+
