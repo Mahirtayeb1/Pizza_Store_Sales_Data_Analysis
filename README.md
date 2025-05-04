@@ -6,7 +6,7 @@
 
 ## 📂 Dataset
 - <a href="https://github.com/Mahirtayeb1/Pizza_Store_Sales_Data_Analysis/blob/main/Dataset/pizza_sales.xlsx"> [Kaggle Pizza Sales Dataset]</a>
-- Rows: ~48,000  
+- Rows: ~49,000  
 - Columns: 9  
 - Contents: Order date, order time, pizza name, size, quantity, unit price, etc.
 
