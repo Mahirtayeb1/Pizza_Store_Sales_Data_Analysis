@@ -97,6 +97,8 @@ The dashboard includes the following visuals:
 
 - <a href= "https://medium.com/@mahirrfaisal07/pizza-sales-analysis-using-power-bi-6bb893920da4"> [📄 Project Report/ Medium Article]</a>
 
+- <a href= "https://github.com/Mahirtayeb1/Pizza_Store_Sales_Data_Analysis/blob/main/Pizza_Sales_Dashboard.pbix"> [📄 Downdload PowerBi DashBoard]</a>
+
 
 ## 🧠 What I Learned
 - Cleaning and transforming real-world messy datasets
